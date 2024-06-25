@@ -1,0 +1,120 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\SoporteTI\\source\\repos\\farmacia\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{77DDC395-69A4-4A82-A86A-365F6479705D}|farmacia\\farmacia.csproj|c:\\users\\soporteti\\source\\repos\\farmacia\\farmacia\\imprimir.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77DDC395-69A4-4A82-A86A-365F6479705D}|farmacia\\farmacia.csproj|solutionrelative:farmacia\\imprimir.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77DDC395-69A4-4A82-A86A-365F6479705D}|farmacia\\farmacia.csproj|c:\\users\\soporteti\\source\\repos\\farmacia\\farmacia\\farmacia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77DDC395-69A4-4A82-A86A-365F6479705D}|farmacia\\farmacia.csproj|solutionrelative:farmacia\\farmacia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77DDC395-69A4-4A82-A86A-365F6479705D}|farmacia\\farmacia.csproj|c:\\users\\soporteti\\source\\repos\\farmacia\\farmacia\\farmacia.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77DDC395-69A4-4A82-A86A-365F6479705D}|farmacia\\farmacia.csproj|solutionrelative:farmacia\\farmacia.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77DDC395-69A4-4A82-A86A-365F6479705D}|farmacia\\farmacia.csproj|C:\\Users\\SoporteTI\\source\\repos\\farmacia\\farmacia\\farmacia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{77DDC395-69A4-4A82-A86A-365F6479705D}|farmacia\\farmacia.csproj|solutionrelative:farmacia\\farmacia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77DDC395-69A4-4A82-A86A-365F6479705D}|farmacia\\farmacia.csproj|C:\\Users\\SoporteTI\\source\\repos\\farmacia\\farmacia\\imprimir.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{77DDC395-69A4-4A82-A86A-365F6479705D}|farmacia\\farmacia.csproj|solutionrelative:farmacia\\imprimir.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77DDC395-69A4-4A82-A86A-365F6479705D}|farmacia\\farmacia.csproj|c:\\users\\soporteti\\source\\repos\\farmacia\\farmacia\\imprimir.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77DDC395-69A4-4A82-A86A-365F6479705D}|farmacia\\farmacia.csproj|solutionrelative:farmacia\\imprimir.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Farmacia.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\SoporteTI\\source\\repos\\farmacia\\farmacia\\Farmacia.Designer.cs",
+              "RelativeDocumentMoniker": "farmacia\\Farmacia.Designer.cs",
+              "ToolTip": "C:\\Users\\SoporteTI\\source\\repos\\farmacia\\farmacia\\Farmacia.Designer.cs",
+              "RelativeToolTip": "farmacia\\Farmacia.Designer.cs",
+              "ViewState": "AQIAAEQAAAAAAAAAAAAAAFgAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T16:40:23.254Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Farmacia.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\SoporteTI\\source\\repos\\farmacia\\farmacia\\Farmacia.cs",
+              "RelativeDocumentMoniker": "farmacia\\Farmacia.cs",
+              "ToolTip": "C:\\Users\\SoporteTI\\source\\repos\\farmacia\\farmacia\\Farmacia.cs [Dise\u00F1o]",
+              "RelativeToolTip": "farmacia\\Farmacia.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T16:26:42.983Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Farmacia.cs",
+              "DocumentMoniker": "C:\\Users\\SoporteTI\\source\\repos\\farmacia\\farmacia\\Farmacia.cs",
+              "RelativeDocumentMoniker": "farmacia\\Farmacia.cs",
+              "ToolTip": "C:\\Users\\SoporteTI\\source\\repos\\farmacia\\farmacia\\Farmacia.cs",
+              "RelativeToolTip": "farmacia\\Farmacia.cs",
+              "ViewState": "AQIAAFUAAAAAAAAAAAAkwF0AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T16:14:14.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Imprimir.cs",
+              "DocumentMoniker": "C:\\Users\\SoporteTI\\source\\repos\\farmacia\\farmacia\\Imprimir.cs",
+              "RelativeDocumentMoniker": "farmacia\\Imprimir.cs",
+              "ToolTip": "C:\\Users\\SoporteTI\\source\\repos\\farmacia\\farmacia\\Imprimir.cs",
+              "RelativeToolTip": "farmacia\\Imprimir.cs",
+              "ViewState": "AQIAAEAAAAAAAAAAAIA0wE0AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T16:33:52.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Imprimir.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\SoporteTI\\source\\repos\\farmacia\\farmacia\\Imprimir.cs",
+              "RelativeDocumentMoniker": "farmacia\\Imprimir.cs",
+              "ToolTip": "C:\\Users\\SoporteTI\\source\\repos\\farmacia\\farmacia\\Imprimir.cs [Dise\u00F1o]",
+              "RelativeToolTip": "farmacia\\Imprimir.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T16:33:49.639Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Imprimir.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\SoporteTI\\source\\repos\\farmacia\\farmacia\\Imprimir.Designer.cs",
+              "RelativeDocumentMoniker": "farmacia\\Imprimir.Designer.cs",
+              "ToolTip": "C:\\Users\\SoporteTI\\source\\repos\\farmacia\\farmacia\\Imprimir.Designer.cs",
+              "RelativeToolTip": "farmacia\\Imprimir.Designer.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAiwFoAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T16:51:30.737Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

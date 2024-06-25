@@ -1,0 +1,17 @@
+C:\Users\SoporteTI\source\repos\farmacia\farmacia\bin\Debug\net8.0-windows\farmacia.exe
+C:\Users\SoporteTI\source\repos\farmacia\farmacia\bin\Debug\net8.0-windows\farmacia.deps.json
+C:\Users\SoporteTI\source\repos\farmacia\farmacia\bin\Debug\net8.0-windows\farmacia.runtimeconfig.json
+C:\Users\SoporteTI\source\repos\farmacia\farmacia\bin\Debug\net8.0-windows\farmacia.dll
+C:\Users\SoporteTI\source\repos\farmacia\farmacia\bin\Debug\net8.0-windows\farmacia.pdb
+C:\Users\SoporteTI\source\repos\farmacia\farmacia\obj\Debug\net8.0-windows\farmacia.csproj.GenerateResource.cache
+C:\Users\SoporteTI\source\repos\farmacia\farmacia\obj\Debug\net8.0-windows\farmacia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SoporteTI\source\repos\farmacia\farmacia\obj\Debug\net8.0-windows\farmacia.AssemblyInfoInputs.cache
+C:\Users\SoporteTI\source\repos\farmacia\farmacia\obj\Debug\net8.0-windows\farmacia.AssemblyInfo.cs
+C:\Users\SoporteTI\source\repos\farmacia\farmacia\obj\Debug\net8.0-windows\farmacia.csproj.CoreCompileInputs.cache
+C:\Users\SoporteTI\source\repos\farmacia\farmacia\obj\Debug\net8.0-windows\farmacia.dll
+C:\Users\SoporteTI\source\repos\farmacia\farmacia\obj\Debug\net8.0-windows\refint\farmacia.dll
+C:\Users\SoporteTI\source\repos\farmacia\farmacia\obj\Debug\net8.0-windows\farmacia.pdb
+C:\Users\SoporteTI\source\repos\farmacia\farmacia\obj\Debug\net8.0-windows\farmacia.genruntimeconfig.cache
+C:\Users\SoporteTI\source\repos\farmacia\farmacia\obj\Debug\net8.0-windows\ref\farmacia.dll
+C:\Users\SoporteTI\source\repos\farmacia\farmacia\obj\Debug\net8.0-windows\farmacia.farmaciaForm.resources
+C:\Users\SoporteTI\source\repos\farmacia\farmacia\obj\Debug\net8.0-windows\farmacia.Imprimir.resources
